@@ -19,8 +19,8 @@
   "private": true,
   "dependencies": {
     "@angular/common": "20.3.2",
-    "@angular/compiler": "20.3.2",
-    "@angular/core": "20.3.2",
+    "@angular/compiler": "20.3.16",
+    "@angular/core": "20.3.16",
     "@angular/forms": "20.3.2",
     "@angular/platform-browser": "20.3.2",
     "@angular/platform-server": "20.3.2",
